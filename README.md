@@ -9,7 +9,6 @@
 <h2>
 # 🚀 Skills
 </h2>
-<br/>
 
 <h3>
   - 🖥️ Front-End
