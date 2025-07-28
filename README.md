@@ -2,11 +2,9 @@
   👋 Hi, I'm AmirSaman Gharechahi
 </h1>
 
-<h3>
+<p>
   I'm a Front-End Developer focused on building modern, responsive, and high-performance web applications. I enjoy working with the latest web technologies and constantly strive to improve my skills and learn new tools.
-</h3>
-
----
+</p>
 
 <h2>
 # 🚀 Skills
@@ -16,7 +14,7 @@
 <h3>
   - 🖥️ Front-End
 </h3> 
-<br/> <br/>
+<br/>
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
@@ -30,7 +28,7 @@
 <h3>
   - 🛠️ Tools
 </h3> 
-<br/> <br/>
+<br/>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
