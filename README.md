@@ -7,11 +7,11 @@
 </p>
 
 <h2>
-# 🚀 Skills
+🚀 Skills
 </h2>
 
 <h3>
-  - 🖥️ Front-End
+🖥️ Front-End
 </h3> 
 <br/>
 
@@ -25,7 +25,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 
 <h3>
-  - 🛠️ Tools
+🛠️ Tools
 </h3> 
 <br/>
 
@@ -36,7 +36,7 @@
 ---
 
 <h2>
-  # 📫 Connect with me
+📫 Connect with me
 </h2>
 <br/>
 
