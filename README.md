@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  I'm a Front-End Developer focused on building modern, responsive, and high-performance web applications. I enjoy working with the latest web technologies and constantly strive to improve my skills and learn new tools.
+  I'm a Front-End web Developer focused on building modern, responsive, and high-performance web applications. I enjoy working with the latest web technologies and constantly strive to improve my skills and learn new tools.
 </p>
 
 <h2>
